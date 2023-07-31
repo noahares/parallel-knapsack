@@ -1,0 +1,3 @@
+[submodule "instances/kplib"]
+	path = instances/kplib
+	url = https://github.com/likr/kplib.git
